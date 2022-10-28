@@ -1,0 +1,3 @@
+>>> Instalar via Nugget a extensão MySQLConnector
+>>> Cria uma classe Pessoa
+>>> Renomear o form para FrmPessoa
