@@ -3,6 +3,6 @@ Projeto demonstração de um pequeno crud multiplataforma (Desktop, Mobile e WEB
 
 # Observação
 Os projetos estão compactados.
-O projeto Mobile estão apenas com os scripts.
+O projeto Mobile esta apenas com os scripts.
 
 No projeto Desktop e Mobile, precisa instalar via Nuget, o MySQLConnector.
